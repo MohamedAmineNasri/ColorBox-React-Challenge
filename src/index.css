@@ -28,11 +28,14 @@ body {
     width: 400px;
     height: 500px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     box-shadow: 2px 2px 5px #000;
     border-radius: 0.2rem;
 }
+
+
 
 form {
     width: 400px;
